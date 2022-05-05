@@ -12,11 +12,10 @@ Open one terminal and run :
 then 
 >npm install
 
-Open another terminal node and give command 
+Open 2nd terminal node and give command 
 >npm install
 
-
-then in the second terminal(sourse folder) run
+then in the 'second terminal(sourse folder)' run
 >npm run dev
 
 We can also give commands for server or client run using proper command.
