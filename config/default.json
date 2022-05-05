@@ -1,5 +1,5 @@
 {
-    "mongoURI": "<write your mongodb atlas cloud URI>",
+    "mongoURI": "mongodb+srv://tanisha123:tanisha123@devconnector.rjtqn.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
     "jwtSecret": "secret",
-    "githubToken": "<write your github token>"
+    "githubToken": "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"
   }
