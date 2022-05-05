@@ -6,7 +6,7 @@ Instructions for running this project and social networking site for webdevelope
 
 First of all download this file and then unzip it.
 Afterword open corresponding cmd command window (or other terminal) and give command - 
-code . 
+'code .' 
 
 Afterwords as it will open VScode then in VScode open one terminal node and give command : 'cd client'
 
